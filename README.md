@@ -1,2 +1,2 @@
 # New_Tab_Extention
-Chrome New Tab Extention that displays a webpage with the date, time, and weather.
+Chrome New Tab Extension that displays a webpage with the date, time, and weather.
